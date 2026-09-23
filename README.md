@@ -103,6 +103,7 @@ Tools for overall project cost estimation and budgeting.
 - [HomeAdvisor Cost Guides](https://www.homeadvisor.com/cost/) - National average costs for home improvement projects.
 - [Fixr Cost Guides](https://www.fixr.com/costs) - Detailed cost breakdowns for renovation and construction projects.
 - [RSMeans Online](https://www.rsmeansonline.com) - Professional construction cost data (paid).
+- [BidWright](https://github.com/braedonsaunders/bidwright) - Open-source construction estimating / takeoff (2D, 3D, PDF, BIM, point cloud) with pricing and bid quotes.
 
 ## Mobile Apps
 
